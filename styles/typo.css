@@ -1,0 +1,28 @@
+h1 {
+  font-family: 'Pattaya', sans-serif;
+  font-weight: 400px;
+  font-size: 100px;
+  color: #fff;
+  text-align: center;
+  background-color: #EFCD25;
+  background-size: auto;
+}
+
+h2 {
+font-family: 'Open Sans', sans-serif;
+  font-size: 64px;
+}
+
+p.abc {
+  max-width: 560px;
+  margin-left: auto;
+  margin-right: auto;
+}
+body {
+  text-align: justify;
+  font-family: 'Open Sans', sans-serif;
+  font-weight: 300;
+}
+img.abeilles {
+  text-align: center;
+}
